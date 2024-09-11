@@ -1,0 +1,22 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.list{
+    flex-direction: row;
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    
+}
+.li{
+    
+    border: 1px solid;
+    padding: 25px;
+}
+.edit{
+    display: flex;
+    flex-direction: row;
+}
